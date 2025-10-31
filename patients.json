@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Peter Parker",
+    "city": "Kathmandu",
+    "age": 32,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 72.0,
+    "bmi": 23.51,
+    "verdict": "Normal weight"
+  },
+  "P002": {
+    "name": "Anita Sharma",
+    "city": "Pokhara",
+    "age": 28,
+    "gender": "Female",
+    "height": 1.62,
+    "weight": 58,
+    "bmi": 22.1,
+    "verdict": "Normal"
+  },
+  "P003": {
+    "name": "Suman Thapa",
+    "city": "Lalitpur",
+    "age": 45,
+    "gender": "Male",
+    "height": 1.7,
+    "weight": 85,
+    "bmi": 29.41,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Maya Gurung",
+    "city": "Kathmandu",
+    "age": 35,
+    "gender": "Female",
+    "height": 1.72,
+    "weight": 70.0,
+    "bmi": 23.66,
+    "verdict": "Normal weight"
+  },
+  "P005": {
+    "name": "Ramesh Koirala",
+    "city": "Biratnagar",
+    "age": 50,
+    "gender": "Male",
+    "height": 1.72,
+    "weight": 95,
+    "bmi": 32.1,
+    "verdict": "Obese"
+  }
+}
